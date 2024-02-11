@@ -4,7 +4,7 @@ Custom GPT-2 Text Generation is a project that fine-tunes the GPT-2 language mod
 
 #### 1-Installation
 Clone this repository to your local machine:
-git clone https://github.com/mhadihossaini/Custom_GPT2_Text_Generation
+git clone https://github.com/mhadihossaini/Custom_GPT2_Text_Generation.git
 
 #### 2-Install the required Python packages:
 pip install -r requirements.txt
